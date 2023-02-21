@@ -35,7 +35,7 @@ _Note: This is only a navigation guide for the specification, and does not defin
   - [Contributing](#contributing)
   - [License](#license)
 - [Definitions](#definitions)
-- [수식](#그래프설명)
+- [수식](#수식)
 
 ## Sections
 

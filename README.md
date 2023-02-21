@@ -35,6 +35,7 @@ _Note: This is only a navigation guide for the specification, and does not defin
   - [Contributing](#contributing)
   - [License](#license)
 - [Definitions](#definitions)
+- [그래프 설명](#설명)
 
 ## Sections
 
@@ -238,3 +239,5 @@ progressively greater amount of knowledge."
 _These definitions are provided to clarify any terms used above._
 
 - **Documentation repositories**: Repositories without any functional code. For instance, [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge).
+
+## 설명

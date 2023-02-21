@@ -18,7 +18,7 @@ A compliant README must satisfy all the requirements listed below.
 _Note: This is only a navigation guide for the specification, and does not define or mandate terms for any specification-compliant documents._
 
 - [Sections](#sections)
-  - [Autoencoder](#title)
+  - [Autoencoder](#Autoencoder)
   - [Banner](#banner)
   - [Badges](#badges)
   - [Short Description](#short-description)

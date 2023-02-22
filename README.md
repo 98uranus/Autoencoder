@@ -245,5 +245,5 @@ _These definitions are provided to clarify any terms used above._
 - Recall (재현도): 실제값이 Positive인 것 중 모델이 Positive라 분류한 비율
 - Accuracy (정확도): 전체 중 모델이 올바르게 분류한 비율
 - F1 score: Precision과 Recall의 조화평균
-- Confusion matrix (오차행렬): Training을 통한 Precision 성능을 측정하기 위해 예측 value와 실제 value를 비교하기 위한 표
+- Confusion matrix (오차행렬): Training을 통한 Precision 성능을 측정하기 위해 예측값과 실제값을 비교하기 위한 표
 - Predicsion-Recall curve:
